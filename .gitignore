@@ -1,3 +1,6 @@
 pinegrow.json
 **/_pgbackup/
 OctoPrint-Instances.zip
+
+.DS_Store
+.idea/
